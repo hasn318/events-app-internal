@@ -1,0 +1,4 @@
+e_modules
+logs
+*.log
+npm-debug.log*
